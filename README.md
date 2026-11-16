@@ -7,7 +7,8 @@ Estudante de **Ciência da Computação na UESC** (conclusão em 2028), em Ilhé
 - 🔬 **Cientista de dados voluntário** no Laboratório de Biotecnologia da UESC desde 04/2026, analisando dados do DATASUS sobre tuberculose e arboviroses.
 - 🤖 **Construí o assistente virtual do CACIC**, um chatbot com RAG para estudantes de Computação da UESC.
 - ⚙️ **Automação com n8n** na diretoria de Marketing da Life Jr.
-- 👨‍🏫 **Monitor de Programação** (Python e C) para Engenharia Mecânica e bolsista PIBID/CAPES.
+- 👨‍🏫 **Monitor de Programação** (Python e C) bolsista PIBID/CAPES.
+- 👨‍🏫 **Pesquisador Ciêntifico** - Modelos preditivos para Sífilis Congenita na Bahia - bolsista PIBIC.
 - 🏛️ **Presidente do Centro Acadêmico (CACIC) da UESC** na gestão 2026; coordenei a 23ª Sinform.
 - 🏆 3º lugar no Campeonato de Programação Universitária (CPU) da UESC.
 
